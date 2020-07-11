@@ -4,7 +4,7 @@ pip3 install pi-sht1x
 
 python3 sensorsht1.py
 
-sensor  ||  board
+sensor  ||  board pin (Not GPIO)
 vcc     =  1
 gnd     =  6
 green(data)  = 12(GPIO 18)
